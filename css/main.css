@@ -1,0 +1,38 @@
+*{
+  font-family: Verdana, sans-serif;
+}
+
+h1{
+  font-size: 48px;
+}
+
+h2{
+  font-size: 24px;
+  font-weight: 900;
+  margin: 0 0 30px 0;
+}
+
+p,
+ul{
+  font-size: 16px;
+  line-height: 32px;
+  margin-bottom: 10px;
+}
+
+header {
+  margin: 26px 0 20px 0;
+}
+
+.grey-text {
+  color: #666;
+}
+
+.orange-text {
+  color: #f07c17;
+}
+
+.features {
+  border: 1px solid #ccc;
+  margin-top: 30px;
+  padding: 30px;
+}
